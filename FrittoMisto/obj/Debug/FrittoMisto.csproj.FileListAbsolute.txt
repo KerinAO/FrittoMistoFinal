@@ -1,0 +1,15 @@
+C:\Users\ucenik\source\repos\FrittoMisto\bin\Debug\FrittoMisto.exe.config
+C:\Users\ucenik\source\repos\FrittoMisto\bin\Debug\FrittoMisto.exe
+C:\Users\ucenik\source\repos\FrittoMisto\bin\Debug\FrittoMisto.pdb
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.Form1.resources
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.Narudzba.resources
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.Properties.Resources.resources
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.exe
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.pdb
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.CustomNarudzba.resources
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.Meni.resources
+C:\Users\ucenik\source\repos\FrittoMisto\obj\Debug\FrittoMisto.PregledNarudzbe.resources
